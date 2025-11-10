@@ -4,6 +4,13 @@ Este projeto é um site institucional completo, desenvolvido com foco em boas pr
 
 ---
 
+## 🌐 Deploy
+
+Acesse o projeto online em:  
+👉 **https://expeditoz.github.io/BikCraft/**
+
+---
+
 ## 🚀 Tecnologias Utilizadas
 
 ### **HTML5**
